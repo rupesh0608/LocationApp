@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Location App</string>
+    <string name="latitude_0_0">Latitude: 0.0</string>
+    <string name="longitude_0_0">Longitude: 0.0</string>
+    <string name="current_location">Current Location</string>
+    <string name="popular_movies">Popular Movies</string>
+</resources>
